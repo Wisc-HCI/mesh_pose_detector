@@ -1,0 +1,1 @@
+pose_detector/DetectedObject[] detected_objects
